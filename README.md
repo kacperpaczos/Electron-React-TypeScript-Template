@@ -1,0 +1,2 @@
+# ElectronReactTemplate
+Electron React Template
